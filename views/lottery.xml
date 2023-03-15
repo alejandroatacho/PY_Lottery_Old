@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="lottery.xsl"?>
+<?xml-stylesheet href="../styles/style.css" type="text/css"?>
+<lottery_ui>
+    <div class="grid_template">
+    <th>
+        <tr>
+    <numbers_slot_1>
+        <number id="1">1</number>
+        <number id="2">2</number>
+        <number id="3">3</number>
+        <number id="4">4</number>
+    </numbers_slot_1>
+</tr>
+<tr>
+    <numbers_slot_2>
+        <number id="5">5</number>
+        <number id="6">6</number>
+        <number id="7">7</number>
+        <number id="8">8</number>
+
+    </numbers_slot_2>
+</tr>
+<tr>
+    <numbers_slot_3>
+        <number id="9">9</number>
+        <number id="10">10</number>
+        <number id="11">11</number>
+        <number id="12">12</number>
+
+    </numbers_slot_3>
+</tr>
+</th>
+</div>
+</lottery_ui>
